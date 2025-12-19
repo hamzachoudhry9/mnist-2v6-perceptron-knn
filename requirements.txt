@@ -1,0 +1,6 @@
+---
+```txt
+numpy
+tensorflow
+matplotlib
+scipy
